@@ -15,7 +15,7 @@
 
           <h1><?php printf( __( 'Category Archives: %s', 'bootstrapcanvaswp' ), '<span>' . single_cat_title( '', false ) . '</span>' ); ?></h1>
             ewq
-fsdfs
+fsdfssdfdsf
 asdsa
             dsadsa
      
