@@ -18,10 +18,4 @@
 		  <hr />
 		  <?php get_template_part( 'loop', 'category' ); ?>
             dsadsadsadsa
-
-        </div><!-- /.blog-main -->
-
-        <?php get_sidebar(); ?>
-
-      </div><!-- /.row -->
-      
+     
